@@ -28,12 +28,6 @@ Example usage:
 ./patch.py GatherOsState.exe v1.patch
 ```
 
-Original release
-----------------
-The original release with the internal version of the v1 readme can be viewed on
-[GitLab](https://gitlab.com/nekopaizuri/gamersosstate). Further versions will be
-released on both GitHub and GitLab.
-
 License
 -------
 Copyright (C) 2022 Gamers Against Weed. All rights reserved.
